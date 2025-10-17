@@ -1,4 +1,5 @@
 /* fonts */
+
 @import url("https://fonts.googleapis.com/css2?family=Alegreya:wght@400;700&family=Nunito:wght@400;700&display=swap");
 
 body {
@@ -27,7 +28,7 @@ header {
     color: #fff;
 }
 
-/* results-area */
+/* results area */
 
 #results-area {
     box-shadow: 0 0 10px #ff8400;
